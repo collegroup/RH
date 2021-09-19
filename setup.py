@@ -94,10 +94,10 @@ class PyTest(TestCommand):
 
 setup(
     name='Robinhood',
-    author='Jamone Kelly',
-    author_email='TODO',
-    url='https://github.com/Jamonek/Robinhood',
-    download_url='https://github.com/Jamonek/Robinhood/tarball/v' + __version__,
+    author='Arthur Colle',
+    author_email='arthur@collegroup.com',
+    url='https://github.com/collegroup/RH',
+    download_url='https://github.com/collegroup/RH/tarball/v' + __version__,
     version=__version__,
     license='MIT',
     classifiers=[
