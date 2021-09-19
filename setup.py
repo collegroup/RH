@@ -93,7 +93,7 @@ class PyTest(TestCommand):
         exit(errno)
 
 setup(
-    name='Robinhood',
+    name='collegroup-RH',
     author='Arthur Colle',
     author_email='arthur@collegroup.com',
     url='https://github.com/collegroup/RH',
